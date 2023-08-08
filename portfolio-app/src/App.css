@@ -1,38 +1,36 @@
+/* Add your general styling here */
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  font-family: 'Arial', sans-serif;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ffcc00; /* Vibrant yellow */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(16px + 2vmin);
+  color: #333; /* Dark gray text color */
+}
+
+.App-logo {
+  width: 100px; /* Set the size of your logo */
+  height: auto;
+  margin-bottom: 20px;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ff5733; /* Bright orange for links */
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-link:hover {
+  color: #ff8855; /* Lighter orange on hover */
 }
+
+/* Add additional custom styles below */
+
