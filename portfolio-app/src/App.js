@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 import { HashRouter, Routes, Route } from "react-router-dom";
 import NavBar from './components/NavBar';
@@ -12,6 +12,7 @@ function App() {
     <HashRouter>
       <div className="App">
         <NavBar />
+        <img src={logo} alt="Logo" className="App-logo" />
         <Routes>
           <Route path="/" element={<h1>About</h1>} />
           <Route path="/portfolio" element={<h1>Portfolio</h1>} />
