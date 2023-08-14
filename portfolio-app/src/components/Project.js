@@ -1,17 +1,19 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
-const Project = ({ title, imageSrc, deployLink, githubLink }) => {
+const ProjectList = ({ projects }) => {
   return (
-    <div className="project mb-4">
-      <img src={imageSrc} alt={`${title} Screenshot`} className="project-image" />
-      <h3 className="mt-3">{title}</h3>
-      <div className="project-links">
-        <Link to={deployLink}>View App</Link>
-        <Link to={githubLink}>GitHub Repo</Link>
-      </div>
+    <div>
+      {projects.map((project) => (
+        <project
+          key={project.id}
+          title={project.title}
+          imageSrc={project.image}
+          deployLink={project.projectLink}
+          githubLink={project.repoLink}
+        />
+      ))}
     </div>
   );
 };
 
-export default Project;
+export default ProjectList;

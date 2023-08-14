@@ -1,5 +1,5 @@
 import React from 'react';
-import Project from './Project'; // Assuming Project component file is named Project.js
+import Project from './Project';
 
 const projects = [
   {
@@ -14,33 +14,25 @@ const projects = [
     id: 2,
     title: 'Project 2',
     description: 'Brief description of project 2',
-    image: 'path-to-project-1-image.jpg',
-    projectLink: 'project-1-link',
-    repoLink: 'github-repo-1-link',
+    image: 'path-to-project-2-image.jpg',
+    projectLink: 'project-2-link',
+    repoLink: 'github-repo-2-link',
   },
   {
     id: 3,
     title: 'Project 3',
     description: 'Brief description of project 3',
-    image: 'path-to-project-1-image.jpg',
-    projectLink: 'project-1-link',
-    repoLink: 'github-repo-1-link',
-  },
-  {
-    id: 1,
-    title: 'Project 1',
-    description: 'Brief description of project 1',
-    image: 'path-to-project-1-image.jpg',
-    projectLink: 'project-1-link',
-    repoLink: 'github-repo-1-link',
+    image: 'path-to-project-3-image.jpg',
+    projectLink: 'project-3-link',
+    repoLink: 'github-repo-3-link',
   },
   {
     id: 4,
     title: 'Project 4',
     description: 'Brief description of project 4',
-    image: 'path-to-project-1-image.jpg',
-    projectLink: 'project-1-link',
-    repoLink: 'github-repo-1-link',
+    image: 'path-to-project-4-image.jpg',
+    projectLink: 'project-4-link',
+    repoLink: 'github-repo-4-link',
   },
   {
     id: 5,
@@ -50,7 +42,14 @@ const projects = [
     projectLink: 'project-1-link',
     repoLink: 'github-repo-1-link',
   },
-  // Add projects
+  {
+    id: 5,
+    title: 'Project 6',
+    description: 'Brief description of project 6',
+    image: 'path-to-project-6-image.jpg',
+    projectLink: 'project-6-link',
+    repoLink: 'github-repo-6-link',
+  },
 ];
 
 const Portfolio = () => {
