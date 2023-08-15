@@ -1,9 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+
 import { HashRouter, Routes, Route } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+import About from './pages/About';
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
+import Resume from './pages/Resume';
 // Add below back to package.json before deploying
 // "homepage": "https://github.com/chadkraus87/React-Portfolio"
 
@@ -12,12 +16,11 @@ function App() {
     <HashRouter>
       <div className="App">
         <NavBar />
-        <img src={logo} alt="Logo" className="App-logo" />
         <Routes>
-          <Route path="/" element={<h1>About</h1>} />
-          <Route path="/portfolio" element={<h1>Portfolio</h1>} />
-          <Route path="/contact" element={<h1>Contact</h1>} />
-          <Route path="/resume" element={<h1>Resume</h1>} />
+          <Route path="/" element={ <About /> } />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/resume" element={<Resume />} />
         </Routes>
       </div>
       <Footer />

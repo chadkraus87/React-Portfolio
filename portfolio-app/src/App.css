@@ -1,19 +1,23 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
 
+body {
+  background-color: #68A691;
+}
+
 .App {
   text-align: center;
   font-family: 'Arial', sans-serif;
 }
 
 .App-header {
-  background-color: #ffcc00;
-  min-height: 100vh;
+  background-color: #EAB5AE !important;
+  /* min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(16px + 2vmin);
-  color: #333;
+  color: #333; */
 }
 
 .App-logo {
@@ -30,4 +34,18 @@
 
 .App-link:hover {
   color: #ff8855; 
+}
+
+i {
+  font-size: 36px;
+}
+
+.nav-icon {
+  font-size: 18px;
+}
+
+footer {
+  background-color: #EAB5AE !important;
+  color: black !important;
+
 }

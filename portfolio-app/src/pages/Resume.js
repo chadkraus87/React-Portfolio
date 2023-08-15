@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "../../assets/files/Chadwick-Kraus-Full-Stack-Developer.pdf";
+import myResume from "../assets/files/Chadwick-Kraus-Full-Stack-Developer.pdf";
 
 function Resume() {
   return (
@@ -11,6 +11,11 @@ function Resume() {
         width="100%"
         height="800px"
       ></iframe>
+      <a
+        href="https://drive.google.com/file/d/1tNIU9kedz7VOiLG9a5e-MSzZ8jAvD-vb/view?usp=sharing"
+        target="_blank"
+        rel="noreferrer"
+      >Download or Print Resume</a>
     </div>
   );
 }

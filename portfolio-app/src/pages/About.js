@@ -1,7 +1,7 @@
 import React from "react";
-import profileImage from "./assets/images/Chadwick-Kraus-headshot.jpg";
+import profileImage from "../assets/images/Chadwick-Kraus-headshot.jpg";
 
-const About = () => {
+function About() {
   return (
     <section id="about" className="py-5">
       <div className="container">

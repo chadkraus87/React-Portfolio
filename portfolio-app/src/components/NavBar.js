@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const NavBar = () => {
     return ( 
-        <nav className="navbar navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar navbar-expand-lg bg-body-tertiary App-header">
   <div className="container-fluid">
     <Link to="/" className="navbar-brand" >Chadwick Kraus</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,11 +15,8 @@ const NavBar = () => {
           <Link to="/" className="nav-link active" aria-current="page">About</Link>
         </li>
         <li className="nav-item">
-          <Link to="/portfolio" className="nav-link">Portfolio</Link>
+          <Link to="/portfolio" className="nav-link">Portfolio <i class="fa-solid fa-folder nav-icon"></i></Link>
         </li>
-        {/* <li className="nav-item">
-          <Link to="/blog" className="nav-link">Blog</Link>
-        </li> */}
         <li className="nav-item">
           <Link to="/resume" className="nav-link">Resume</Link>
         </li>

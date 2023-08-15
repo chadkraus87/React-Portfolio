@@ -27,7 +27,7 @@ const Contact = () => {
             <ul className="list-unstyled">
               <li><strong>Phone:</strong> 512-650-7633</li>
               <li><strong>Email:</strong> chad@kraus-fit.com</li>
-              <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/chadwick-kraus/" target="_blank" rel="noopener noreferrer">linkedin.com/in/chadwick-kraus</a></li>
+              <li> <a href="https://linkedin.com/in/chadwick-kraus/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a></li>
             </ul>
           </div>
         </div>
