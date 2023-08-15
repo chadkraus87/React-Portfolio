@@ -1,4 +1,4 @@
-/* Add your general styling here */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
 
 .App {
   text-align: center;
@@ -6,31 +6,28 @@
 }
 
 .App-header {
-  background-color: #ffcc00; /* Vibrant yellow */
+  background-color: #ffcc00;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(16px + 2vmin);
-  color: #333; /* Dark gray text color */
+  color: #333;
 }
 
 .App-logo {
-  width: 100px; /* Set the size of your logo */
+  width: 100px;
   height: auto;
   margin-bottom: 20px;
 }
 
 .App-link {
-  color: #ff5733; /* Bright orange for links */
+  color: #ff5733;
   text-decoration: none;
   transition: color 0.3s ease-in-out;
 }
 
 .App-link:hover {
-  color: #ff8855; /* Lighter orange on hover */
+  color: #ff8855; 
 }
-
-/* Add additional custom styles below */
-
