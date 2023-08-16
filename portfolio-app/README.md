@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# React Portfolio
+A personal portfolio website for Chadwick Kraus built using React.js and Bootstrap.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![MIT License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-## Available Scripts
+# Description
 
-In the project directory, you can run:
+This application features an About, Portfolio, Resume, and Contact page, which are all easily accessible via the navigation or footer bar. Users are also able to download or print a copy of my resume directly from the Resume page.
 
-### `npm start`
+[GitHub Repository](https://github.com/chadkraus87/React-Portfolio)
+[GitHub Page Application](https://chadkraus87.github.io/React-Portfolio/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- Add landing page image here -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-### `npm test`
+## Installation
+Please visit my GitHub Project page at: [GitHub Page Application](https://chadkraus87.github.io/React-Portfolio/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To view this portfolio locally, follow these steps:
 
-### `npm run build`
+1. Clone the repository to your local machine.
+2. Navigate to the project's root directory in your terminal.
+3. Run the following command to install the required dependencies: `npm install`
+4. Run the command `npm start` to start the development server.
+5. Open your web browser and visit `http://localhost:3000` to access the portfolio.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+Upon visiting the portfolio website, you will find the following sections:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **About**: This section provides a brief introduction and background about me and my skillset.
+- **Portfolio**: This section showcases various projects completed during my Full-Stack Coding Bootcamp at the University of Texas at Austin, along with project details and links to view the projects and their GitHub repositories.
+- **Contact**: This section provides contact information, including links to social media profiles and a contact form.
+- **Resume**: This section allows you to view my resume in PDF format.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The website is designed using React.js components and Bootstrap styles, providing a responsive and user-friendly experience.
 
-### `npm run eject`
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
+Contributions to this project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tests
+N/A
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Questions
+If you have any questions or comments about this project, please contact me at chadkraus87@gmail.com. You can also find more information and other projects on my GitHub [chadkraus87](https://github.com/chadkraus87). If you encounter any issues or bugs while using this portfolio, please report them to the project GitHub repository so that they can be addressed. Additionally, contributions to this project are always welcome. If you would like to contribute, please review the project contribution guidelines and submit a pull request. Thank you for your support!
