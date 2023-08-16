@@ -11,7 +11,7 @@ const projects = [
     id: 1,
     title: "Spots",
     description:
-      "An authentication based application that allows users to save their favorite spots.",
+      "An authentication based application that allows users to save their favorite spots with options to save photos, auto-populates addresses, and offers a redirect to the Google Maps address.",
     image: Spots,
     projectLink: "https://spots-1fbfc8155a67.herokuapp.com/",
     repoLink: "https://github.com/chadkraus87/FullStackGroup2",

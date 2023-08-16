@@ -25,9 +25,10 @@ const Contact = () => {
           </div>
           <div className="col-md-6">
             <ul className="list-unstyled">
-              <li><strong>Phone:</strong> 512-650-7633</li>
-              <li><strong>Email:</strong> chad@kraus-fit.com</li>
-              <li> <a href="https://linkedin.com/in/chadwick-kraus/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a></li>
+              <li><strong>Phone <i class="fa-solid fa-phone-volume nav-icon"></i>:</strong> 512-650-7633</li>
+              <li><strong>Email <i class="fa-solid fa-envelope-open-text nav-icon">:</i></strong> chad@kraus-fit.com </li>
+              <li>LinkedIn: <a href="https://linkedin.com/in/chadwick-kraus/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a></li>
+              <li>GitHub: <a href="https://github.com/chadkraus87" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a></li>
             </ul>
           </div>
         </div>

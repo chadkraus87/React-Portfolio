@@ -1,23 +1,19 @@
-@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
 
 body {
-  background-color: #68A691;
+  background-color: #85b4ff;
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .App {
   text-align: center;
-  font-family: 'Arial', sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .App-header {
-  background-color: #EAB5AE !important;
-  /* min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(16px + 2vmin);
-  color: #333; */
+  background-color: #ff70ae !important;
 }
 
 .App-logo {
@@ -27,13 +23,13 @@ body {
 }
 
 .App-link {
-  color: #ff5733;
+  color: #fc6722;
   text-decoration: none;
   transition: color 0.3s ease-in-out;
 }
 
 .App-link:hover {
-  color: #ff8855; 
+  color: #f5b400;
 }
 
 i {
@@ -44,8 +40,11 @@ i {
   font-size: 18px;
 }
 
-footer {
-  background-color: #EAB5AE !important;
-  color: black !important;
+.card-body {
+  background-color: #abf1a2;
+}
 
+footer {
+  background-color: #ff70ae !important;
+  color: black !important;
 }
