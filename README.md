@@ -8,6 +8,7 @@ A personal portfolio website for Chadwick Kraus built using React.js and Bootstr
 This application features an About, Portfolio, Resume, and Contact page, which are all easily accessible via the navigation or footer bar. Users are also able to download or print a copy of my resume directly from the Resume page.
 
 [GitHub Repository](https://github.com/chadkraus87/React-Portfolio)
+
 [GitHub Page Application](https://chadkraus87.github.io/React-Portfolio/)
 
 <!-- Add landing page image here -->
