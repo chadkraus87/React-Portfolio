@@ -11,7 +11,7 @@ This application features an About, Portfolio, Resume, and Contact page, which a
 
 [GitHub Page Application](https://chadkraus87.github.io/React-Portfolio/)
 
-![About](https://github.com/chadkraus87/React-Portfolio/assets/127354484/840bac3d-1ff7-4cf8-8f11-de61aa9614be)
+![AboutLP](https://github.com/chadkraus87/React-Portfolio/assets/127354484/2ecb3c2c-1eb4-4417-8942-48f8138717d2)
 
 ![Portfolio](https://github.com/chadkraus87/React-Portfolio/assets/127354484/950921b9-aa1c-40bd-b700-f64288bb58a3)
 
