@@ -64,6 +64,39 @@ const projects = [
     repoLink: "https://github.com/chadkraus87/EmployeeTracker",
   },
 ];
+  {
+    id: 7,
+    title: "Employee Tracker",
+    description:
+      "An application for tracking employees and departments within a company.",
+    image: EmployeeTracker,
+    projectLink:
+      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
+    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+  },
+];
+  {
+    id: 9,
+    title: "Note Taking Application",
+    description:
+      "An for keeping up to date with daily tasks",
+    image: NoteTaker,
+    projectLink:
+      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
+    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+  },
+];
+  {
+    id: 10,
+    title: "Web API Quz",
+    description:
+      "A timed application quiz to help users brust up on their Javascript knowledge.",
+    image: WebAPIQiz,
+    projectLink:
+      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
+    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+  },
+];
 
 const Portfolio = () => {
   return (

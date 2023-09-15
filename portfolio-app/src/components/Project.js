@@ -10,6 +10,7 @@ const ProjectList = ({ projects }) => {
           imageSrc={project.image}
           deployLink={project.projectLink}
           githubLink={project.repoLink}
+          description={project.description}            
         />
       ))}
     </div>
