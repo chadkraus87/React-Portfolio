@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "..Chadwick-Kraus-Resume-Sept-23";
+import myResume from "../assets/files/Chadwick_Kraus_Resume.pdf";
 
 function Resume() {
   return (
