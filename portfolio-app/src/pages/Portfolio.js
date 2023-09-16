@@ -7,7 +7,7 @@ import WorkDayScheduler from "../assets/images/WorkDaySchedulerLP.png";
 import EmployeeTracker from "../assets/images/EmployeeTracker.png";
 import NoteTaker from "../assets/images/NoteTaker.png";
 import EcommerceBackend from "../assets/images/EcommerceBackend.png";
-import WebAPIQiz from "../assets/images/WebAPIQiz.png";
+import WebAPIQiz from "../assets/images/WebAPIQuiz.png";
 
 const projects = [
   {
@@ -51,7 +51,7 @@ const projects = [
     id: 5,
     title: "Work Day Scheduler",
     description:
-      "A calendar application that allows users to save events, presents the current time/day, and shares inspirational quotes in the footer.",
+      "A calendar application that allows users to save events, presents the current time/day, and shares inspirational quotes in the footer. The calendar also updates in real-time.",
     image: WorkDayScheduler,
     projectLink: "https://chadkraus87.github.io/Work-Day-Scheduler/",
     repoLink: "https://github.com/chadkraus87/Work-Day-Scheduler",
