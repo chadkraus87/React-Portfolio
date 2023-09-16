@@ -60,7 +60,7 @@ const projects = [
     id: 6,
     title: "Employee Tracker",
     description:
-      "An application for tracking employees and departments within a company.",
+      "The Employee Management System is a command-line application that allows users to manage departments, roles, and employees within an organization. It provides functionalities such as viewing all departments, roles, and employees, adding new departments, roles, and employees, updating employee roles and managers, deleting departments and roles, and calculating the total utilized budget of a department. The application is built using Node.js and utilizes MySQL as the database management system.",
     image: EmployeeTracker,
     projectLink:
       "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
@@ -80,17 +80,17 @@ const projects = [
     id: 9,
     title: "Note Taking Application",
     description:
-      "An application for keeping up to date with your daily tasks.",
+      "An application for keeping up to date with your daily tasks. This application allows the user to save and delete tasks.",
     image: NoteTaker,
     projectLink:
-      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
+      "https://mysterious-sands-82995.herokuapp.com/",
     repoLink: "https://github.com/chadkraus87/NoteTaker",
   },
   {
     id: 10,
     title: "Web API Quiz",
     description:
-      "A timed application quiz to help users brush up on their JavaScript knowledge.",
+      "A timed application quiz with a countdown timer to help users brush up on their JavaScript knowledge.",
     image: WebAPIQiz,
     projectLink:
       "https://chadkraus87.github.io/Web-API-Code-Quiz/",
