@@ -1,5 +1,5 @@
 import React from "react";
-import myResume from "..Chadwirck-Kraus-Resume-Sept-23";
+import myResume from "..Chadwick-Kraus-Resume-Sept-23";
 
 function Resume() {
   return (
@@ -12,7 +12,7 @@ function Resume() {
         height="800px"
       ></iframe>
       <a
-        href="https://drive.google.com/file/d/1tNIU9kedz7VOiLG9a5e-MSzZ8jAvD-vb/view?usp=sharing"
+        href="https://drive.google.com/file/d/1jdHgHOUXJZ_ZiOINaP87z8Vgj7awnttc/view?usp=drive_link"
         target="_blank"
         rel="noreferrer"
       >Download or Print Resume</a>

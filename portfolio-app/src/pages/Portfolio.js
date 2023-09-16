@@ -5,13 +5,16 @@ import SocialNetwork from "../assets/images/SocialNetworkAPI.png";
 import MVC from "../assets/images/MVCTechBlogLP.png";
 import WorkDayScheduler from "../assets/images/WorkDaySchedulerLP.png";
 import EmployeeTracker from "../assets/images/EmployeeTracker.png";
+import NoteTaker from "../assets/images/NoteTaker.png";
+import EcommerceBackend from "../assets/images/EcommerceBackend.png";
+import WebAPIQiz from "../assets/images/WebAPIQiz.png";
 
 const projects = [
   {
     id: 1,
     title: "Spots",
     description:
-      "An authentication based application that allows users to save their favorite spots with options to save photos, auto-populates addresses, and offers a redirect to the Google Maps address.",
+      "An authentication-based application that allows users to save their favorite spots with options to save photos, auto-populates addresses, and offers a redirect to the Google Maps address.",
     image: Spots,
     projectLink: "https://spots-1fbfc8155a67.herokuapp.com/",
     repoLink: "https://github.com/chadkraus87/FullStackGroup2",
@@ -63,38 +66,35 @@ const projects = [
       "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
     repoLink: "https://github.com/chadkraus87/EmployeeTracker",
   },
-];
   {
     id: 7,
-    title: "Employee Tracker",
+    title: "Ecommerce BackEnd",
     description:
-      "An application for tracking employees and departments within a company.",
-    image: EmployeeTracker,
+      "The E-commerce Back-End is a backend application that provides the necessary API endpoints for managing an e-commerce website. It allows users to perform CRUD operations (Create, Read, Update, Delete) on products, categories, and tags. The application is built using Node.js, Express.js, and Sequelize as the ORM (Object-Relational Mapping) tool for interacting with the MySQL database.",
+    image: EcommerceBackend,
     projectLink:
-      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
-    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+      "https://drive.google.com/file/d/1xwvri6EEz_uOQUO-PmwaDuJ7FfFitsos/view",
+    repoLink: "https://github.com/chadkraus87/E-commerceBackEnd",
   },
-];
   {
     id: 9,
     title: "Note Taking Application",
     description:
-      "An for keeping up to date with daily tasks",
+      "An application for keeping up to date with your daily tasks.",
     image: NoteTaker,
     projectLink:
       "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
-    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+    repoLink: "https://github.com/chadkraus87/NoteTaker",
   },
-];
   {
     id: 10,
-    title: "Web API Quz",
+    title: "Web API Quiz",
     description:
-      "A timed application quiz to help users brust up on their Javascript knowledge.",
+      "A timed application quiz to help users brush up on their JavaScript knowledge.",
     image: WebAPIQiz,
     projectLink:
-      "https://drive.google.com/file/d/1R3MvpUrgGGZx_RJXHq8LRBjfvBBzXhYN/view",
-    repoLink: "https://github.com/chadkraus87/EmployeeTracker",
+      "https://chadkraus87.github.io/Web-API-Code-Quiz/",
+    repoLink: "https://github.com/chadkraus87/Web-API-Code-Quiz",
   },
 ];
 
