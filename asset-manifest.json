@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.55d1e460.css",
-    "main.js": "/React-Portfolio/static/js/main.a899b4f9.js",
+    "main.js": "/React-Portfolio/static/js/main.921b394d.js",
     "static/js/787.30237536.chunk.js": "/React-Portfolio/static/js/787.30237536.chunk.js",
     "static/media/SpotsLP.png": "/React-Portfolio/static/media/SpotsLP.266ea3a550f307c46f38.png",
     "static/media/Chadwick-Kraus-headshot.jpg": "/React-Portfolio/static/media/Chadwick-Kraus-headshot.c1fd4ac424a6b6845b15.jpg",
     "static/media/WorkDaySchedulerLP.png": "/React-Portfolio/static/media/WorkDaySchedulerLP.4becde938213aedc35ec.png",
-    "static/media/Chadwick-Kraus-Full-Stack-Developer.pdf": "/React-Portfolio/static/media/Chadwick-Kraus-Full-Stack-Developer.f54309a0303e62705d2f.pdf",
+    "static/media/Chadwick_Kraus_Resume.pdf": "/React-Portfolio/static/media/Chadwick_Kraus_Resume.78a52d58c2e3a117ca7f.pdf",
     "static/media/SocialNetworkAPI.png": "/React-Portfolio/static/media/SocialNetworkAPI.27b22f0f3f5e2f76285c.png",
     "static/media/PWALP.png": "/React-Portfolio/static/media/PWALP.bbf125a2e74d9e8daaf8.png",
     "static/media/MVCTechBlogLP.png": "/React-Portfolio/static/media/MVCTechBlogLP.41d0de69a825530de48e.png",
     "static/media/EmployeeTracker.png": "/React-Portfolio/static/media/EmployeeTracker.ecbe96a0b5eb805aa5a1.png",
+    "static/media/EcommerceBackend.png": "/React-Portfolio/static/media/EcommerceBackend.6ae31d48006a2400f445.png",
+    "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.c8914d440b7415ed557e.png",
+    "static/media/WebAPIQuiz.png": "/React-Portfolio/static/media/WebAPIQuiz.ab9e801ecb700098fe89.png",
     "index.html": "/React-Portfolio/index.html",
     "main.55d1e460.css.map": "/React-Portfolio/static/css/main.55d1e460.css.map",
-    "main.a899b4f9.js.map": "/React-Portfolio/static/js/main.a899b4f9.js.map",
+    "main.921b394d.js.map": "/React-Portfolio/static/js/main.921b394d.js.map",
     "787.30237536.chunk.js.map": "/React-Portfolio/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55d1e460.css",
-    "static/js/main.a899b4f9.js"
+    "static/js/main.921b394d.js"
   ]
 }
